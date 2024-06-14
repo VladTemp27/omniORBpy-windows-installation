@@ -4,4 +4,9 @@
 	python bindings we would also need the omniORB library
 </p>
 
+<h1>Pre-Requisites</h1>
+<h3>Visual Studio Code</h3>
+<h3>Cygwin</h3>
+<h3>Python</h3>
+
 <h1>Steps</h1>
