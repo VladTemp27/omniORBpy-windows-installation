@@ -2,7 +2,7 @@
  This write-up guides you through the step-by-step process on how to set up omniORB for those who are having a difficult time following the documentation, mainly beginners, this is based on official documentation provided by omniORB. To compile omniORBpy and generate it's python bindings, we would also need the omniORB library.
 
 # Pre-Requisites
-### Visual Studio Code
+### Visual Studio
 Any version of Visual Studio will do; this will be needed to compile the omniORB package, alternatively, you can use MinGW to compile omniORB, although it is not that documented.
 Including **"Desktop Development for C++"** saves you the hassle of fixing your PATH for C++ development so this is **highly recommended** as shown below:
 
